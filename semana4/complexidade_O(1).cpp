@@ -1,9 +1,11 @@
+//Codigo do professor
+
 #include<stdio.h>
 void mostraNumero(int x){
 
-	printf("\n O número é: %d.",x);
+	printf("\n O nÃºmero Ã©: %d.",x);
 }
-//chamada da função
+//chamada da funÃ§Ã£o
 main(){
 	mostraNumero(10000);
 }
